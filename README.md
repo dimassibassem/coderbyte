@@ -39,8 +39,8 @@ Each challenge:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/dimassibassem/coderbyte
+cd coderbyte
 ```
 
 ---
