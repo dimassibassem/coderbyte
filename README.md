@@ -46,14 +46,7 @@ cd <repository-name>
 ---
 
 ### 2️⃣ Install dependencies
-
-From the **root of the repository**:
-
-```bash
-npm install
-```
-
-or with pnpm:
+ 
 
 ```bash
 pnpm install
@@ -68,16 +61,10 @@ Each challenge is located under `apps/<challenge-name>`.
 To run a specific challenge in development mode:
 
 ```bash
-npm run dev -- --filter=<challenge-name>
+pnpm run dev --filter=<challenge-name>
 ```
 
 Example:
-
-```bash
-npm run dev -- --filter=text-search
-```
-
-or with pnpm:
 
 ```bash
 pnpm dev --filter=text-search
@@ -113,8 +100,4 @@ http://localhost:3000
 
 **Bassem Dimassi**
 
-Frontend Developer
-
 ---
-
-Feel free to explore, run, and review ea

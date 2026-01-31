@@ -1,6 +1,7 @@
 {
   "name": "coderbyte",
   "private": true,
+  "author": "Bassem Dimassi",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
